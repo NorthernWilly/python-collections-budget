@@ -1,4 +1,4 @@
-from python-collections-budget/budget import Expense
+from . import Expense
 import collections
 import matplotlib.pyplot as plt
 
